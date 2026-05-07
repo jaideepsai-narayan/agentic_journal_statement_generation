@@ -9,7 +9,7 @@
 
 An intelligent, automated workflow built with **LangGraph** that reconciles bank transactions against invoices to calculate conversion fees, automatically drafting and auditing journal entries.
 
-Instead of relying purely on large language models for arithmetic—which can lead to hallucinations—this project implements a robust **Maker-Checker (Generator-Validator)** pattern. 
+Instead of relying purely on large language models for arithmetic which can lead to hallucinations this project implements a robust **Maker-Checker (Generator-Validator)** pattern. 
 
 ## ✨ Key Features
 
