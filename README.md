@@ -1,4 +1,4 @@
-# agentic_journal_statement_generation
+# Agentic_journal_statement_generation
 
 # 🤖 Agentic Financial Reconciler & Journal Generator
 
